@@ -1,7 +1,7 @@
 # WoW-MoP-5.4.8-Mute
 **Mute specific sounds in World of Warcraft - Mists of Pandaria 5.4.8 client.**
 
-Packages of files are just (empty) data files and are non-intrusive and easily 
+[Packages of files](https://github.com/fondlez/WoW-MoP-5.4.8-Mute/releases/latest) are just (empty) data files and are non-intrusive and easily 
 removed. 
 
 There may be different packages for different options. There should be 
